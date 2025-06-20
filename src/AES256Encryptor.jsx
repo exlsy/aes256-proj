@@ -42,7 +42,7 @@ export default function AES256Encryptor() {
       <div className="flex w-full min-w-[1200px] gap-8">
         <Card className="w-1/2 p-4">
           <CardContent>
-            <h3 className="text-2xl text-center font-bold mb-4">--- 카카오엔터 clearanceapi ---</h3>
+            <h3 className="text-2xl text-center font-bold mb-4">--- ---</h3>
             <h2 className="text-3xl text-center font-bold mb-4">AES256 암호화 도구</h2>
             <div className="space-y-4">
               <Input
